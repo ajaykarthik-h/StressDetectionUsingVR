@@ -1,0 +1,7 @@
+#Mon Apr 16 23:05:15 EDT 2018
+base.0=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e716f0e7d87c9ade7ec52eb862e2906fefbbcdf2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_63c9f130a2ef9babc9189049d1333a82b50331ee\\classes.dex
+base.1=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_63c9f130a2ef9babc9189049d1333a82b50331ee
+file.0=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e716f0e7d87c9ade7ec52eb862e2906fefbbcdf2\\classes.dex

@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Apr 16 23:05:15 EDT 2018
+2.base=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_63c9f130a2ef9babc9189049d1333a82b50331ee
+5.file=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=DEX
+4.base=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e716f0e7d87c9ade7ec52eb862e2906fefbbcdf2\\classes.dex
+1.set=DEX
+2.file=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_63c9f130a2ef9babc9189049d1333a82b50331ee\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e716f0e7d87c9ade7ec52eb862e2906fefbbcdf2
+4.file=C\:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+0.set=ANDROID_RESOURCE

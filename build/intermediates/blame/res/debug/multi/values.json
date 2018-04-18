@@ -1,0 +1,184 @@
+[
+    {
+        "outputFile": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 52,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 39,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 39,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endLine": 11,
+                    "endColumn": 71,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endLine": 10,
+                        "endColumn": 71,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 41,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 41,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "C:\\Users\\eojre\\AndroidStudioProjects\\BandGsrApp\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 691
+                    }
+                }
+            }
+        ]
+    }
+]
